@@ -85,23 +85,34 @@ Passionate about Cloud Infrastructure, Automation, DevSecOps, and building secur
 - 🔒 Secrets Management (Key Vault, HashiCorp Vault)
   
 ---
-## Profile Views
+## 📊 GitHub Stats
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=shyam-codeops&style=for-the-badge&color=263759&label=PROFILE+VIEWS" alt="Profile views counter" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyam-codeops&style=for-the-badge&color=263759&label=PROFILE+VIEWS" alt="Profile views counter" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-codeops&theme=radical" alt="GitHub Profile Summary Cards" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shyam-codeops&theme=radical)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shyam-codeops&theme=dark&hide_border=false)<br/>
-
-
-
-
-## 📫 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/shyam-singh-devops/
-* GitHub: https://github.com/shyam-codeops/
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-codeops&theme=dark&hide_border=false" alt="GitHub Readme Streak Stats" />
+</p>
 
 ---
 
-⭐ Always learning, automating, and building secure cloud solutions.
+## 📫 Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/shyam-singh-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32"/></a>
+<a href="https://github.com/shyam-codeops/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32"/></a>
+<a href="mailto:shyam.s.ops@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="32"/></a>
+
+</div>
+
+---
+
+<p align="center">
+  ⭐ <i>Always learning, automating, and building secure cloud solutions.</i>
+</p>
