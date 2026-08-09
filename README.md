@@ -113,6 +113,10 @@ Passionate about Cloud Infrastructure, Automation, DevSecOps, and building secur
 
 ---
 
+![Snake animation](https://github.com/YOUR_USERNAME/shyam-codeops/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 <p align="center">
   ⭐ <i>Always learning, automating, and building secure cloud solutions.</i>
 </p>
