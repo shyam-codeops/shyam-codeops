@@ -101,6 +101,18 @@ Passionate about Cloud Infrastructure, Automation, DevSecOps, and building secur
 
 ---
 
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 <div align="left">
@@ -110,10 +122,6 @@ Passionate about Cloud Infrastructure, Automation, DevSecOps, and building secur
 <a href="mailto:shyam.s.ops@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="32"/></a>
 
 </div>
-
----
-
-![Snake animation](https://github.com/shyam-codeops/shyam-codeops/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
