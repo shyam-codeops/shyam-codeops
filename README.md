@@ -116,6 +116,18 @@
 
 ---
 
+## 📫 Connect With Me
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/shyam-singh-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32"/></a>
+<a href="https://github.com/shyam-codeops/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32"/></a>
+<a href="mailto:shyam.s.ops@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="32"/></a>
+
+</div>
+
+---
+
 ### 🐍 Contribution Graph
 
 <div align="center">
@@ -128,17 +140,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/shyam-singh-devops/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="32"/></a>
-<a href="https://github.com/shyam-codeops/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="32"/></a>
-<a href="mailto:shyam.s.ops@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="32"/></a>
-
-</div>
-
----
 
 <p align="center">
   ⭐ <i>Always learning, automating, and building secure cloud solutions.</i>
