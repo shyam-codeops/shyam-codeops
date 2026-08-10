@@ -2,11 +2,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hello!+👋;+I'm+Shyam+Singh!;" />
 </h1>
 
-## 🚀 DevSecOps Engineer | Azure | Kubernetes | Terraform | Automation
 
-Passionate about Cloud Infrastructure, Automation, DevSecOps, and building secure scalable platforms.
+<p align="center">
+  <a href="https://github.com/shyam-codeops">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevSecOps+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Infrastructure+as+Code+%7C+Automation;Build+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Secure"
+      alt="Cloud and DevOps Engineer"
+    />
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
+  <img alt="[An animated gif of an Octocat using a teleporter in dark and light modes. If you switch your color theme, you can see it in the other color mode:)" src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif)">
+</picture>
+</p>
+
+
 
 ## ☁️ Cloud & DevOps Stack
 
