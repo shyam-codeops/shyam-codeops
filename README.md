@@ -22,7 +22,7 @@
 </picture>
 </p>
 
-
+---
 
 ## ☁️ Cloud & DevOps Stack
 
@@ -70,6 +70,7 @@
 * 🏅 Certified Kubernetes Administrator (CKA) (In Progress)
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center"><b>Visitor's Count</b></p>
@@ -105,7 +106,6 @@
 - 📊 Logging & Performance Monitoring
 - 🔒 Secrets Management (Key Vault, HashiCorp Vault)
   
-
 --- 
 
 ## 📫 Connect With Me
