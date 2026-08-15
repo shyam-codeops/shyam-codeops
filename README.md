@@ -77,7 +77,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=shyam-codeops&label=Profile%20Views&color=0e75b6&style=flat"alt="shyam-codeops"width="200"/></p>
 <p align="center"><img src="https://github-readme-stats-api-gules.vercel.app/api/top-langs/?username=shyam-codeops&layout=compact&hide=TSQL&theme=chartreuse-dark" /></p>
 <p align="center"><img src="https://github-readme-stats-api-gules.vercel.app/api?username=shyam-codeops&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" /></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-codeops&theme=chartreuse-dark"></p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-codeops&theme=chartreuse-dark" /></p>
 <br>
 
