@@ -24,37 +24,64 @@
 
 ---
 
-## ☁️ Cloud & DevOps Stack
+<h2>👨‍💻 About Me</h2>
 
-<div align="left">
+I am a DevSecOps Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
 
-<img alt="DevSecOps" src="https://img.shields.io/badge/DevSecOps-DC2626?style=flat-square" height="28"/>
-<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="28"/>
-<img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="28"/>
-<img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="28"/>
-<img alt="Cloud Security" src="https://img.shields.io/badge/Cloud%20Security-DC2626?style=flat-square" height="28"/>
-<img alt="GitOps" src="https://img.shields.io/badge/GitOps-059669?style=flat-square" height="28"/>
-<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="28"/>
-<img alt="AI Infrastructure" src="https://img.shields.io/badge/AI%20Infrastructure-0891B2?style=flat-square" height="28"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28"/>
-<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" height="28"/>
-<img alt="MLOps" src="https://img.shields.io/badge/MLOps-0891B2?style=flat-square" height="28"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="28"/>
-<img alt="Observability" src="https://img.shields.io/badge/Observability-EA580C?style=flat-square" height="28"/>
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="28"/>
-<img alt="RAG" src="https://img.shields.io/badge/RAG-0891B2?style=flat-square" height="28"/>
-<img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" height="28"/>
-<img alt="Site Reliability Engineering" src="https://img.shields.io/badge/Site%20Reliability%20Engineering-EA580C?style=flat-square" height="28"/>
-<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="28"/>
-<img alt="Cloud Cost Optimization" src="https://img.shields.io/badge/Cloud%20Cost%20Optimization-CA8A04?style=flat-square" height="28"/>
-<img alt="Multi-Cloud" src="https://img.shields.io/badge/Multi--Cloud-7C3AED?style=flat-square" height="28"/>
-<img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" height="28"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28"/>
-<img alt="Microservices" src="https://img.shields.io/badge/Microservices-7C3AED?style=flat-square" height="28"/>
-<img alt="Cloud Migration" src="https://img.shields.io/badge/Cloud%20Migration-059669?style=flat-square" height="28"/>
-<img alt="LLM Deployment" src="https://img.shields.io/badge/LLM%20Deployment-0891B2?style=flat-square" height="28"/>
+---
 
-</div>
+# 🚀 What I Do
+
+- Design and operate Kubernetes platforms (AKS) for multi-environment workloads
+- Build reusable Terraform modules for Azure
+- Implement GitOps-based deployments using ArgoCD and Helm
+- Automate CI/CD pipelines for applications and infrastructure
+- Design centralized observability using Prometheus, Grafana, and Azure Monitor
+- Integrate DevSecOps practices into delivery workflows
+
+---
+
+## 🧰 DevOps Toolchain
+
+### ☁️ Cloud & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+</p>
+
+### 🔁 CI/CD & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+</p>
+
+### 📊 Observability & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### 🔐 Security & DevSecOps
+<p>
+<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
+<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
+</p>
+
+### 🗄️ Version Control & Collaboration
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+### 🖥️ Scripting & OS
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+</p>
 
 ---
 
