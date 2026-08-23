@@ -26,8 +26,31 @@
 
 <h2>👨‍💻 About Me</h2>
 
+<p>
+  <img src="https://img.shields.io/badge/Name-Shyam%20Singh-1f6feb?style=for-the-badge" alt="Name: Shyam Singh" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2ea44f?style=for-the-badge" alt="Experience: 4+ Years" />
+  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" alt="Location: India" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Role-DevSecOps%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevSecOps Engineer" />
+</p>
+
 I am a DevSecOps Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
 My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
+
+### Currently Working On
+
+<p>
+  <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/DevSecOps-DC143C?style=flat-square" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="GitOps" />
+  <img src="https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Observability" />
+  <img src="https://img.shields.io/badge/AI%20for%20DevOps-7B61FF?style=flat-square" alt="AI for DevOps" />
+</p>
 
 ---
 
@@ -101,37 +124,25 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## 📊 GitHub Stats
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=shyam-codeops&label=Profile%20Views&color=0e75b6&style=flat"alt="shyam-codeops"width="200"/></p>
-<p align="center"><img src="https://github-readme-stats-api-gules.vercel.app/api/top-langs/?username=shyam-codeops&layout=compact&hide=TSQL&theme=chartreuse-dark" /></p>
-<p align="center"><img src="https://github-readme-stats-api-gules.vercel.app/api?username=shyam-codeops&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true" /></p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-codeops&theme=chartreuse-dark" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shyam-codeops&label=Profile%20Views&color=2563EB&style=flat" alt="shyam-codeops" width="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-api-gules.vercel.app/api/top-langs/?username=shyam-codeops&layout=compact&hide=TSQL&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&border_color=1E293B" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-api-gules.vercel.app/api?username=shyam-codeops&count_private=true&show_icons=true&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&border_color=1E293B" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-codeops&bg_color=0D1117&color=CBD5E1&line=2563EB&point=38BDF8&area=true&hide_border=true" />
+</p>
+
 <br>
 
----
-
-## 🔥 Current Focus
-
-- 🔐 DevSecOps
-- ☸️ Kubernetes & AKS
-- 🏗️ Terraform Automation
-- 🚀 CI/CD Pipelines
-- ☁️ Cloud Security
-- ⚙️ Infrastructure Automation
-- 🐳 Docker & Containerization
-- 📦 Helm & Kubernetes Package Management
-- 🔍 Monitoring & Observability (Prometheus, Grafana, Azure Monitor)
-- 🛡️ Security Scanning (SAST, DAST, Container Security)
-- 🔑 Identity & Access Management (IAM, RBAC, Azure AD)
-- 📜 Infrastructure as Code (Terraform, Bicep, ARM)
-- 🤖 GitHub Actions & Azure DevOps
-- 🐧 Linux Administration
-- 💻 PowerShell & Shell Scripting
-- 🌐 Networking & Cloud Architecture
-- 🔄 GitOps & Continuous Deployment
-- 🚨 Incident Response & Reliability Engineering
-- 📊 Logging & Performance Monitoring
-- 🔒 Secrets Management (Key Vault, HashiCorp Vault)
-  
 --- 
 
 ## 📫 Connect With Me
