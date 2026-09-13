@@ -137,9 +137,6 @@ My focus is on **scalability, reliability, security, and automation** across the
   <img src="https://github-readme-stats-api-gules.vercel.app/api?username=shyam-codeops&count_private=true&show_icons=true&include_all_commits=true&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=2563EB&border_color=1E293B" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shyam-codeops&bg_color=0D1117&color=CBD5E1&line=2563EB&point=38BDF8&area=true&hide_border=true" />
-</p>
 
 <br>
 
