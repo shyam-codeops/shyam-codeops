@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/shyam-codeops">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevSecOps+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Infrastructure+as+Code+%7C+Automation;Build+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Secure"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Infrastructure+as+Code+%7C+Automation;Build+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Secure"
       alt="Cloud and DevOps Engineer"
     />
   </a>
@@ -33,10 +33,10 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Role-DevSecOps%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevSecOps Engineer" />
+  <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps Engineer" />
 </p>
 
-I am a DevSecOps Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+I am a DevOps Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
 My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
 
 ### Currently Working On
