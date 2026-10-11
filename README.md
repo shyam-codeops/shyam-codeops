@@ -170,6 +170,28 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ---
 
+<div align="center">
+  <a href="https://github.com/shyam-codeops">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/pacman-output/pacman-contribution-graph-dark.svg" />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/pacman-output/pacman-contribution-graph.svg" />
+      <img
+        alt="Pac-Man contribution graph"
+        src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/pacman-output/pacman-contribution-graph.svg"
+        width="100%" />
+    </picture>
+  </a>
+</div>
+
+<br/>
+<br/>
+
+---
+
 <p align="center">
   ⭐ <i>Always learning, automating, and building secure cloud solutions.</i>
 </p>
