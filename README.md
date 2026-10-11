@@ -112,10 +112,10 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 * 🏅 Microsoft Certified: DevOps Engineer Expert (AZ-400)
 * 🏅 Microsoft Certified: Azure Administrator Associate (AZ-104)
-* 🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 * 🏅 Microsoft Certified: Azure Fundamentals (AZ-900)
+* 🏅 Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 * 🏅 Microsoft Certified: Azure AI Fundamentals (AI-900)
-* 🏅 AWS Certified AI Practitioner
+* 🏅 AWS Certified AI Practitioner (AIF-C01)
 * 🏅 HashiCorp Certified: Terraform Associate (In Progress)
 * 🏅 Certified Kubernetes Administrator (CKA) (In Progress)
 
