@@ -168,6 +168,21 @@ My focus is on **scalability, reliability, security, and automation** across the
   </picture>
 </div>
 
+
+<p align="center">
+  <a href="https://github.com/shyam-codeops">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/output/pacman-contribution-graph.svg" width="100%">
+    </picture>
+  </a>
+</p>
+
+<br/>
+<br/>
+
+
 ---
 
 <p align="center">
