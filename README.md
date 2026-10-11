@@ -168,7 +168,10 @@ My focus is on **scalability, reliability, security, and automation** across the
   </picture>
 </div>
 
----
+<br/>
+<br/>
+
+
 
 <div align="center">
   <a href="https://github.com/shyam-codeops">
