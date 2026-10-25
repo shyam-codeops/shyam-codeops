@@ -112,11 +112,11 @@ I am actively exploring **Agentic AI** to build intelligent, autonomous DevOps w
 
 ### 🤖 AI & Agentic AI
 <p>
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/openai.png" width="48" height="48" alt="OpenAI" title="OpenAI" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langchain.png" width="48" height="48" alt="LangChain" title="LangChain" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/azureai.png" width="48" height="48" alt="Azure AI" title="Azure AI" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/copilot.png" width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot" />
-  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/crewai.png" width="48" height="48" alt="CrewAI" title="CrewAI" />
+  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/openai.svg" width="42" height="42" alt="OpenAI" title="OpenAI" />
+  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/copilot.svg" width="42" height="42" alt="GitHub Copilot" title="GitHub Copilot" />
+  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/azure.svg" width="42" height="42" alt="Azure AI" title="Azure AI" />
+  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/langchain.svg" width="42" height="42" alt="LangChain" title="LangChain" />
+  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/crewai.svg" width="42" height="42" alt="CrewAI" title="CrewAI" />
 </p>
 
 ---
