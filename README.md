@@ -112,12 +112,11 @@ I am actively exploring **Agentic AI** to build intelligent, autonomous DevOps w
 
 ### 🤖 AI & Agentic AI
 <p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/AutoGen-4285F4?style=for-the-badge" alt="AutoGen" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/openai.png" width="48" height="48" alt="OpenAI" title="OpenAI" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/langchain.png" width="48" height="48" alt="LangChain" title="LangChain" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/azureai.png" width="48" height="48" alt="Azure AI" title="Azure AI" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/copilot.png" width="48" height="48" alt="GitHub Copilot" title="GitHub Copilot" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/crewai.png" width="48" height="48" alt="CrewAI" title="CrewAI" />
 </p>
 
 ---
