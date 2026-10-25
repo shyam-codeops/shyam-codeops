@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/shyam-codeops">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Infrastructure+as+Code+%7C+Automation;Build+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Secure"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=DevOps+%7C+DevSecOps+Engineer;Azure+%7C+Terraform+%7C+Kubernetes;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Infrastructure+as+Code+%7C+Automation;AI+%7C+Agentic+AI+for+DevOps;Build+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Secure"
       alt="Cloud and DevOps Engineer"
     />
   </a>
@@ -36,20 +36,22 @@
   <img src="https://img.shields.io/badge/Role-DevOps%20Engineer-6f42c1?style=for-the-badge" alt="Role: DevOps Engineer" />
 </p>
 
-I am a DevOps Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
-My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
+I am a **DevOps & DevSecOps Engineer** with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+My focus is on **scalability, reliability, security, AI-driven automation, and Cloud FinOps** across the delivery lifecycle.
+I am actively exploring **Agentic AI** to build intelligent, autonomous DevOps workflows — from self-healing infrastructure to AI-powered code generation and deployment pipelines.
 
 ### Currently Working On
 
 <p>
   <img src="https://img.shields.io/badge/DevOps-2496ED?style=flat-square&logo=docker&logoColor=white" alt="DevOps" />
-  <img src="https://img.shields.io/badge/DevSecOps-DC143C?style=flat-square" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/DevSecOps-DC143C?style=flat-square&logo=shieldsdotio&logoColor=white" alt="DevSecOps" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="GitOps" />
   <img src="https://img.shields.io/badge/Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Observability" />
-  <img src="https://img.shields.io/badge/AI%20for%20DevOps-7B61FF?style=flat-square" alt="AI for DevOps" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-7B61FF?style=flat-square&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Cloud%20FinOps-00C853?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud FinOps" />
 </p>
 
 ---
@@ -57,11 +59,13 @@ My focus is on **scalability, reliability, security, and automation** across the
 # 🚀 What I Do
 
 - Design and operate Kubernetes platforms (AKS) for multi-environment workloads
-- Build reusable Terraform modules for Azure
+- Build reusable Terraform modules for Azure Landing Zones
 - Implement GitOps-based deployments using ArgoCD and Helm
 - Automate CI/CD pipelines for applications and infrastructure
 - Design centralized observability using Prometheus, Grafana, and Azure Monitor
-- Integrate DevSecOps practices into delivery workflows
+- Integrate **DevSecOps** practices — SAST, DAST, SCA, secrets scanning, and policy-as-code
+- Build **Agentic AI** workflows for autonomous infrastructure management and intelligent code generation
+- Implement **Cloud FinOps** strategies — rightsizing, commitment discounts, waste elimination
 
 ---
 
@@ -105,6 +109,60 @@ My focus is on **scalability, reliability, security, and automation** across the
 <p>
 <img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
 </p>
+
+### 🤖 AI & Agentic AI
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/AutoGen-4285F4?style=for-the-badge" alt="AutoGen" />
+</p>
+
+---
+
+## 🏗️ Featured Projects
+
+### ☁️ [Azure Enterprise Landing Zone](https://github.com/shyam-codeops/azure-enterprise-landing-zone)
+[![Azure Landing Zone](https://img.shields.io/badge/Azure%20Landing%20Zone-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/shyam-codeops/azure-enterprise-landing-zone) [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://github.com/shyam-codeops/azure-enterprise-landing-zone) [![IaC](https://img.shields.io/badge/Infrastructure%20as%20Code-2EA44F?style=flat-square)](https://github.com/shyam-codeops/azure-enterprise-landing-zone)
+
+> Production-grade Azure Landing Zone built with Terraform modules — Hub-Spoke networking, Azure Firewall, Azure Policy & Initiatives, RBAC with PIM, multi-subscription governance (Platform, Corp, Online), Management Groups hierarchy, and centralized logging with Azure Monitor.
+
+---
+
+### 🤖 [Agentic DevOps AI](https://github.com/shyam-codeops/agentic-devops-ai)
+[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7B61FF?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/shyam-codeops/agentic-devops-ai) [![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/shyam-codeops/agentic-devops-ai) [![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square)](https://github.com/shyam-codeops/agentic-devops-ai)
+
+> AI-powered autonomous agents for DevOps — intelligent infrastructure provisioning, automated incident remediation, AI-assisted code reviews, self-healing pipelines, and smart deployment strategies using LangChain, CrewAI, and Azure OpenAI.
+
+---
+
+### ☸️ [Kubernetes Production Ready](https://github.com/shyam-codeops/kubernetes-production-ready)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/shyam-codeops/kubernetes-production-ready) [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://github.com/shyam-codeops/kubernetes-production-ready) [![AKS](https://img.shields.io/badge/AKS-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/shyam-codeops/kubernetes-production-ready)
+
+> Production-grade AKS cluster configurations — NGINX Ingress Controller, cert-manager for TLS, network policies & micro-segmentation, RBAC, HPA/VPA autoscaling, pod disruption budgets, and multi-environment Helm chart deployments with Kustomize overlays.
+
+---
+
+### 💰 [Cloud FinOps Toolkit](https://github.com/shyam-codeops/cloud-finops-toolkit)
+[![Cloud FinOps](https://img.shields.io/badge/Cloud%20FinOps-00C853?style=for-the-badge&logo=googlecloud&logoColor=white)](https://github.com/shyam-codeops/cloud-finops-toolkit) [![Cost Optimization](https://img.shields.io/badge/Cost%20Optimization-FF6D00?style=flat-square)](https://github.com/shyam-codeops/cloud-finops-toolkit) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://github.com/shyam-codeops/cloud-finops-toolkit)
+
+> Automated cloud cost optimization toolkit — VM rightsizing scripts, orphaned resource cleanup (disks, IPs, snapshots), Reserved Instance & Savings Plan recommendations, automated start/stop schedules for non-prod environments, and interactive FinOps dashboards.
+
+---
+
+### 🔄 [GitOps with ArgoCD & Helm](https://github.com/shyam-codeops/gitops-argocd-helm)
+[![GitOps ArgoCD](https://img.shields.io/badge/GitOps%20ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://github.com/shyam-codeops/gitops-argocd-helm) [![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)](https://github.com/shyam-codeops/gitops-argocd-helm) [![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://github.com/shyam-codeops/gitops-argocd-helm)
+
+> Complete GitOps workflow — ArgoCD with ApplicationSets, parameterized Helm charts, multi-cluster synchronization, automated rollback strategies, progressive delivery with Argo Rollouts, and environment promotion pipelines (Dev → UAT → Prod).
+
+---
+
+### 📊 [Observability & Monitoring Stack](https://github.com/shyam-codeops/observability-monitoring-stack)
+[![Observability](https://img.shields.io/badge/Observability%20Stack-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://github.com/shyam-codeops/observability-monitoring-stack) [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)](https://github.com/shyam-codeops/observability-monitoring-stack) [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)](https://github.com/shyam-codeops/observability-monitoring-stack)
+
+> End-to-end observability platform — Prometheus for metrics, Grafana for dashboards, Loki for log aggregation, Tempo for distributed tracing, Azure Monitor integration, custom alerting pipelines with PagerDuty/Teams, and SLO/SLI tracking with error budgets.
 
 ---
 
