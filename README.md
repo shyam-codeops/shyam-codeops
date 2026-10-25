@@ -73,41 +73,55 @@ I am actively exploring **Agentic AI** to build intelligent, autonomous DevOps w
 
 ### ☁️ Cloud & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" title="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" />
 </p>
 
 ### 🐳 Containers & Orchestration
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-<img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Helm.png" width="48" height="48" alt="Helm" title="Helm" />
+  <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="48" height="48" alt="Argo CD" title="Argo CD" />
 </p>
 
 ### 🔁 CI/CD & Automation
 <p>
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,github" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" title="GitLab CI" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
 </p>
 
 ### 📊 Observability & Monitoring
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" title="Prometheus" />
+  <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" title="Grafana" />
 </p>
 
 ### 🔐 Security & DevSecOps
 <p>
-<img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" />
-<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" />
+  <img src="https://avatars.githubusercontent.com/u/49598846?s=200&v=4" width="48" height="48" alt="Trivy" title="Trivy" />
+  <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="48" height="48" alt="SonarQube" title="SonarQube" />
+  <img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Vault.svg" width="48" height="48" alt="HashiCorp Vault" title="HashiCorp Vault" />
 </p>
 
 ### 🗄️ Version Control & Collaboration
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" title="GitLab" />
 </p>
 
 ### 🖥️ Scripting & OS
 <p>
-<img src="https://skillicons.dev/icons?i=python,bash,linux,powershell" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" title="PowerShell" />
 </p>
 
 ### 🤖 AI & Agentic AI
