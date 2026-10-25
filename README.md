@@ -126,11 +126,23 @@ I am actively exploring **Agentic AI** to build intelligent, autonomous DevOps w
 
 ### 🤖 AI & Agentic AI
 <p>
-  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/openai.svg" width="42" height="42" alt="OpenAI" title="OpenAI" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/openai-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/openai-light.svg">
+    <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/openai-light.svg" width="42" height="42" alt="OpenAI" title="OpenAI" />
+  </picture>
   <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/copilot.svg" width="42" height="42" alt="Copilot" title="Copilot" />
-  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/github-copilot.svg" width="42" height="42" alt="GitHub Copilot" title="GitHub Copilot" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/github-copilot-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/github-copilot-light.svg">
+    <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/github-copilot-light.svg" width="42" height="42" alt="GitHub Copilot" title="GitHub Copilot" />
+  </picture>
   <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/azure-ai.svg" width="42" height="42" alt="Azure AI" title="Azure AI" />
-  <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/langchain.svg" width="42" height="42" alt="LangChain" title="LangChain" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/langchain-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/langchain-light.svg">
+    <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/langchain-light.svg" width="42" height="42" alt="LangChain" title="LangChain" />
+  </picture>
   <img src="https://raw.githubusercontent.com/shyam-codeops/shyam-codeops/main/icons/crewai.svg" height="38" alt="CrewAI" title="CrewAI" />
 </p>
 
